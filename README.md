@@ -1,4 +1,4 @@
-## Car Damage Detection using Sagemaker and tensorflow
+## Car Damage Detection using Sagemaker and Tensorflow
 
 ### Usecase: 
 Global vehicle insurance & vehicle rental industries still rely on manual ways to detect the vehicle damage & its intensity. Visual quality inspection is commonly used for detecting the damage for claim process. The industry is steeped with manual processes, paper-driven operations, high premium offerings, poor customer service, long turnaround time, etc. 
