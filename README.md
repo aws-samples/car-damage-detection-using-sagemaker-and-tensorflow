@@ -33,10 +33,10 @@ Next steps, use Amazon SageMaker to build, train, and deploy an EfficientDet mod
 
 ### Get started - Instructions
 Follow the step-by-step guide by executing the notebooks in the following folders:
-•	0_ground_truth/ ground_truth.ipynb
-•	1_prepare_data/prepare_data.ipynb
-•	2_train_model/train_model.ipynb
-•	3_predict/deploy_endpoint.ipynb
+#### 0_ground_truth/ ground_truth.ipynb
+#### 1_prepare_data/prepare_data.ipynb
+#### 2_train_model/train_model.ipynb
+#### 3_predict/deploy_endpoint.ipynb
 
 |||
 | -------------- | ---------------------------- |
