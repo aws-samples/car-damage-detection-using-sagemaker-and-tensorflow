@@ -29,7 +29,7 @@ Next steps, use Amazon SageMaker to build, train, and deploy an EfficientDet mod
 •	Generate the dataset TFRecords and label map using SageMaker Processing job
 •	Fine-tune an EfficientDet model with TF2 on Amazon SageMaker
 •	Monitor your model training with Tensorboard and SageMaker Debugger
-•	Deploy your model on a SageMaker Endpoint and visualize predictions
+•	Deploy your model on a SageMaker endpoint and visualize the prediction by detecting "dent" and/or “scratch” in car images (refer below images)
 
 ### Get started - Instructions
 Follow the step-by-step guide by executing the notebooks in the following folders:
